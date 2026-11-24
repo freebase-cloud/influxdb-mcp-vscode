@@ -1,0 +1,6 @@
+{
+  "name": "influxdb-mcp-vscode",
+  "engine": "influxdb",
+  "slug": "influxdb",
+  "kind": "mcp"
+}
